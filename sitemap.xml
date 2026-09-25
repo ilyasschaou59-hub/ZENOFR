@@ -26,7 +26,7 @@
   </url>
   <url>
     <loc>https://www.zenoiptv.fr/blog/</loc>
-    <lastmod>2026-09-23</lastmod>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -147,6 +147,36 @@
   <url>
     <loc>https://www.zenoiptv.fr/blog/activer-abonnement-iptv.html</loc>
     <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.zenoiptv.fr/blog/abonnement-iptv-france.html</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.zenoiptv.fr/blog/iptv-pas-cher.html</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.zenoiptv.fr/blog/abonnement-iptv-12-mois.html</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.zenoiptv.fr/blog/test-gratuit-iptv-24h.html</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.zenoiptv.fr/blog/atlas-iptv-installation.html</loc>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
